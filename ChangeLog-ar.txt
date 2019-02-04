@@ -1,4 +1,4 @@
-{"version_code":45121,"content":"
+{"version_code":451210,"content":"
 <p>تحديث 6.65</p>
 
 <li> التحديث لنسخة الماركت 2.18.327</li>
@@ -19,7 +19,7 @@
 <li> إصلاح مشكلة البحث عن الثيمات</li>
 <li> إصلاحات أخرى</li> 
 <li> تعديل مصطفى </li> 
-
+الحمد لله 
 <li> New Base Updated to 2.18.327</li>
 <li> Enabled Stickers</li>
 <li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
