@@ -1,7 +1,7 @@
 {"version_code":451210,"content":"
 <p>تحديث 6.65</p>
 
-Ⓜ💫 المهند للإتصالات💫Ⓜ
+●Ⓜ💫 المهند للإتصالات💫Ⓜ
 Ⓜ💫  MUHANAD 💫Ⓜ
 
 تاريخ 2/2/2019
@@ -9,47 +9,47 @@
 الأجهزة المتوفرة 
 Ⓜ💫SAMSUNG💫Ⓜ
 
-B310                      27
-J2cor                     81.5
-J3pro                    113.5
-Grand +                 85.5
-J2 PRO                104.5
-J4core                  108
-J4 +                      123
-J4 32                         124
-J4 16                     113.5
-J6                          144
-ON5                     120
-J6pLus 32           144
-on nxt   64            150
-J7 PRIME2            180
-J7 PRIME2             169
-J7pro                        190
-On7prim 64             179
-J8 64                       200
-a6 32                      182
-A7 2018                265
-A8 star                   335
-C7                          177
-C8                           167
-S8+                       405
-Not8                     465
+B310  /                    27
+J2cor  /                   81.5
+J3pro    /                113.5
+Grand + /               85.5
+J2 PRO  /              104.5
+J4core  /                108
+J4 +     /                123
+J4 32   /                     124
+J4 16    /                 113.5
+J6        /                  144
+ON5      /               120
+J6pLus 32   /       144
+on nxt   64/            150
+J7 PRIME2  /          180
+J7 PRIME2 /           169
+J7pro   /                    190
+On7prim 64  /           179
+J8 64   /                   200
+a6 32   /                  182
+A7 2018 /              265
+A8 star  /                 335
+C7       /                  177
+C8      /                     167
+S8+    /                   405
+Not8  /                   465
 
 Ⓜ💫HUAWEI 💫Ⓜ
-Y5lit                         90
-Y5prim                    95
-Y6                           115
-7c                           140
-GR3                       121
-Y7 PRIME              147ازرق
-Y7pRiME                144اسود
-Mat10                     209
-Y9 2018                  182
-HONR 7X               176
-9lit                            150
-X8  128                   238
-Honrply                   247
-HONR 3e                225
+Y5lit   /                     90
+Y5prim  /                  95
+Y6   /                       115
+7c    /                       140
+GR3  /                     121
+Y7 PRIME  /            147ازرق
+Y7pRiME   /            144اسود
+Mat10     /               209
+Y9 2018   /              182
+HONR 7X   /           176
+9lit      /                      150
+X8  128   /               238
+Honrply   /               247
+HONR 3e  /              225
 Honr 3i                   242
 
     Ⓜ💫HTC 💫Ⓜ
