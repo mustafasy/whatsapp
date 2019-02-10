@@ -1,4 +1,4 @@
-{"version_code":451210,"content":"
+{"version_code":45121,"content":"
 <p>تحديث 1.00</p>
 <li> عرض شبكة ألترا إسلام نت </li>
 <li> 1G / 200 ل.س </li>
